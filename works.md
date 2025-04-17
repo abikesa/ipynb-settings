@@ -1,6 +1,7 @@
 (nonself)=  
 # Nonself, 🌊  
 
+```{html}
 <style>
 /* ╭━━━☆━━━╮  FLOAT FRAMES (Figure / Seealso) */
 .float-frame {
@@ -130,13 +131,14 @@ blockquote a:hover {
 </script>
 <p></p>
 <p></p> 
-
+```
 
 We begin in the water. Not with an answer, not with a thesis, but with an amniotic unknowing. The wave, the sea, the nonself: this is **ukuvula**, the great opening. It is not the start of the journey, because there is no journey yet. There is no "you" to travel. There is only motion before motive, reflex before recognition. This is the place of the unformed potential, the limbic prayer of a nervous system before language locks it into a name. In theological terms, it is *tohu va’vohu*—formless and void. In cosmological metaphor, it is the pre-Big Bang singularity, pulsing with unknowable density. In personal myth, it is the place where our skin has not yet declared itself as boundary. To open is not to begin—it is to be undone. And so **ukuvula** must always carry intra-uterine weight. It is womb-thinking, not yet infected by the illusions of control. It is not metaphor. It is necessity.
 
 From this churning nonself emerges the first directional act—not a step, but a drift: **ukuzula**. The wander. The meander. The ship, iconically rendered as 🚢, becomes the symbol not of mastery, but of inheritance. No one builds their first ship; they wake up inside it. The language of their parents, the synaptic maps of childhood, the scars, the hymns, the legends—these become the planks and sails. One does not choose the ship. One learns to question it while living aboard it. **Ukuzula** is epistemology in motion: the seeking that reveals more about the seeker than the sought. It is the dorsal stream of curiosity, the neural commitment to lateral exploration. To roam is not to be lost—it is to refuse premature conclusions. In this stage, truth is not a destination. It is a direction. Ukuzula respects mystery not as a gap in knowledge, but as a covenant with humility.
 
-<div class="float-frame float-right">
+
+`<div class="float-frame float-right">`
 
 ```py
 import numpy as np
